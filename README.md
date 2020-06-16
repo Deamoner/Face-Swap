@@ -6,12 +6,12 @@ This repo is mostly the framework and colab notebooks for testing face splitting
 ![Face Swap Results](https://github.com/Deamoner/Face-Swap/raw/master/Results/results.png)
 
 
-https://github.com/Deamoner/Face-Swap/raw/master/Results/results.png
+## How to use
 
+Run the colab notebook in Google Colab and clone the files over along with the models.
 
-## How tot use
-
-Run the colab notebook in Google Colab and clone the files over.
+In the future I will make this simpler within the Privy Filter Library:
+https://github.com/Deamoner/privyfilter
 
 
 ## Contributing
