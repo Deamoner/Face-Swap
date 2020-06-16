@@ -3,7 +3,10 @@
 ## Built with :heart: by [Matthew Davis](https://www.linkedin.com/in/tech-lead-matt-davis/) - [linkedin](https://www.linkedin.com/in/tech-lead-matt-davis/) - [github](https://github.com/Deamoner) - [Medium](https://medium.com/@mdavis_71283) - [Youtube](https://www.youtube.com/channel/UCJNZxBqs8ElqouPqAkZLlqg) - [Facebook](https://www.facebook.com/matthewjamesdavis/)
 This repo is mostly the framework and colab notebooks for testing face splitting and how it can be utilized for generalizing race/gender/age.
 
-![privyfilter detect and blurr faces](https://github.com/Deamoner/privyfilter/raw/master/TestPics/privyfilter.jpg)
+![Face Swap Results](https://github.com/Deamoner/Face-Swap/raw/master/Results/results.png)
+
+
+https://github.com/Deamoner/Face-Swap/raw/master/Results/results.png
 
 
 ## How tot use
